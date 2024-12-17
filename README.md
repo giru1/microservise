@@ -1,8 +1,8 @@
-# <div id="main">EfiritPro Retail CashShiftModule - Модуль кассовых смен</div>
+# <div id="main">Модуль кассовых смен</div>
 
 ## <div id="content">Содержание</div>
 
-- [CashShiftModule](#main)
+- [](#main)
     - [Содержание](#content)
     - [Предназначение](#target)
     - [Установка](#install)
@@ -26,7 +26,7 @@
 docker build -t efirit-cashshift-module:0.1 .
 ```
 
-2. Применить этот образ в проекте EfiritPro Retail Backend
+2. Применить этот образ в проекте Retail Backend
 
 ## <div id="usage">Использование</div>
 
